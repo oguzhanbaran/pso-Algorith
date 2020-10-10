@@ -1,0 +1,2 @@
+Six-Hump Camel-Back fonksiyonu kullanılmıştır. Benim bu fonksiyondan çıkarımım genel olarak 
+en iyi uygunluk değerinin hızı az olan parçacıklar tarafından sağlandığıdır.
